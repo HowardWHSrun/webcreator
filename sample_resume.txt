@@ -1,0 +1,63 @@
+Sarah Chen
+Full Stack Developer
+sarah.chen@email.com | (555) 987-6543 | linkedin.com/in/sarahchen | github.com/sarahc-dev
+
+Professional Summary
+Passionate full-stack developer with 4+ years of experience building scalable web applications. Expertise in React, Node.js, and cloud technologies. Strong problem-solving skills and collaborative team player committed to delivering high-quality, user-focused solutions.
+
+Professional Experience
+
+Senior Frontend Developer - TechFlow Solutions (2022-Present)
+• Led frontend development for enterprise SaaS platform serving 50K+ users
+• Implemented responsive design system that improved user engagement by 35%
+• Collaborated with UX team to redesign onboarding flow, reducing churn by 25%
+• Mentored 3 junior developers and established code review best practices
+
+Full Stack Developer - StartupLab Inc. (2020-2022)
+• Built MVP for fintech startup using React, Node.js, and PostgreSQL
+• Developed REST APIs handling 100K+ daily transactions
+• Implemented automated testing pipeline increasing deployment confidence by 80%
+• Optimized database queries resulting in 60% faster page load times
+
+Junior Developer - WebCraft Agency (2019-2020)
+• Created responsive websites for 20+ small business clients
+• Collaborated with design team to implement pixel-perfect UI components
+• Maintained WordPress sites and provided ongoing technical support
+
+Education
+
+Bachelor of Science in Computer Science
+University of California, Berkeley (2015-2019)
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+• Senior Project: Built machine learning recommendation system for e-commerce platform
+
+Technical Skills
+Frontend: React, Vue.js, TypeScript, HTML5, CSS3, Sass, Tailwind CSS
+Backend: Node.js, Express, Python, Django, REST APIs, GraphQL
+Database: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Git, Jenkins
+Testing: Jest, Cypress, React Testing Library, Unit Testing
+
+Projects
+
+E-Commerce Platform (2023)
+• Built full-stack marketplace using React, Node.js, and Stripe integration
+• Implemented real-time chat system using WebSockets
+• Deployed on AWS with auto-scaling and load balancing
+• GitHub: github.com/sarahc-dev/ecommerce-platform
+
+Task Management App (2022)
+• Created collaborative project management tool with drag-drop functionality
+• Integrated with third-party APIs for calendar and notification features
+• Used React, Redux, and Firebase for real-time data synchronization
+• Live Demo: taskmaster-app.netlify.app
+
+Certifications
+• AWS Certified Solutions Architect - Associate (2023)
+• Google Analytics Certified (2022)
+• Scrum Master Certification (2021)
+
+Languages
+• English (Native)
+• Mandarin (Conversational)
+• Spanish (Basic) 
